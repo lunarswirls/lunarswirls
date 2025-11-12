@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on fun visualization projects and building complex geophysical models
 - 🤔 Ask me about rock magnetism and electromagnetic induction
 
-Here's a miniature-magnetosphere model I made from [Waller et al. 2022](https://doi.org/10.3389/fspas.2022.926018)
+Here's an empirical miniature magnetosphere model I made from [Waller et al. 2022](https://doi.org/10.3389/fspas.2022.926018)
 
 https://github.com/user-attachments/assets/6a235fff-0b78-4c9c-97d7-a2d9ba48f115
 
