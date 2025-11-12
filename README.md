@@ -1,9 +1,9 @@
 ### Dany Waller
 - 💬 Pronouns: they/them
-- 🔭 I’m currently working on my PhD in computational physics at Umeå University
-- 🌱 I’m currently learning GPU-based coding 
-- 👯 I’m looking to collaborate on fun visualization projects and building complex geophysical models
-- 🤔 Ask me about rock magnetism and electromagnetic induction
+- 🔭 Currently working on: PhD in computational physics at Umeå University
+- 🌱 Currently learning: GPU-based coding 
+- 👯 Looking to collaborate on: fun visualization projects and building complex geophysical models
+- 🤔 Ask me about: rock magnetism and electromagnetic induction
 
 Here's an empirical miniature magnetosphere model I made from [Waller et al. 2022](https://doi.org/10.3389/fspas.2022.926018)
 
