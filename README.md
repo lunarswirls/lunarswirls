@@ -7,7 +7,7 @@
 
 Here's a miniature-magnetosphere model I made from [Waller et al. 2022](https://doi.org/10.3389/fspas.2022.926018)
 
-<img src="https://danywaller.github.io/images/reiner_gamma_minimag_boundary_15nT_v2.mp4" alt="Reiner Gamma" height="500" />
+https://danywaller.github.io/images/reiner_gamma_minimag_boundary_15nT_v2.mp4
 
 <!--
 **lunarswirls/lunarswirls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
