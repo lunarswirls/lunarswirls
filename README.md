@@ -1,4 +1,13 @@
-## Hi there 👋
+### Dany Waller
+- 💬 Pronouns: they/them
+- 🔭 I’m currently working on my PhD in computational physics at Umeå University
+- 🌱 I’m currently learning GPU-based coding 
+- 👯 I’m looking to collaborate on fun visualization projects and building complex geophysical models
+- 🤔 Ask me about rock magnetism and electromagnetic induction
+
+Here's a miniature-magnetosphere model I made from [Waller et al. 2022](https://doi.org/10.3389/fspas.2022.926018)
+
+<img src="https://danywaller.github.io/images/reiner_gamma_minimag_boundary_15nT_v2.mp4" alt="Reiner Gamma" height="500" />
 
 <!--
 **lunarswirls/lunarswirls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
