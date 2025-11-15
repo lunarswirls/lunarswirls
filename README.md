@@ -5,7 +5,7 @@
 - 👯 Looking to collaborate on: fun visualizations and geophysical models
 - 🤔 Ask me about: rock magnetism and electromagnetic induction
 
-Here's an empirical miniature magnetosphere model I made!
+Here's an animation of a miniature magnetosphere undergoing compression from an empirical model I made for my master's thesis!
 
 https://github.com/user-attachments/assets/6a235fff-0b78-4c9c-97d7-a2d9ba48f115
 
