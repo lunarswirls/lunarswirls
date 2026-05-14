@@ -7,7 +7,13 @@
 
 Here's an interactive figure of a miniature magnetosphere at Reiner Gamma using my <code>GravMagSphere</code> equivalent source model based on the [Hemingway & Garrick-Bethell (2012)](https://doi.org/10.1029/2012JE004165) dipole distribution!
 
-![Reiner Gamma GravMagSphere equivalent source model based on Hemingway & Garrick-Bethell (2012) dipole distribution.](https://github.com/danywaller/danywaller.github.io/blob/a08d0b4a8538735db5788c50836a2197b5e539d4/images/reiner_gamma_table4_surface_direct_fieldlines_3d.html)
+<iframe 
+  src="https://danywaller.github.io/images/reiner_gamma_table4_surface_direct_fieldlines_3d.html" 
+  width="100%" 
+  height="400px" 
+  title="Reiner Gamma GravMagSphere equivalent source model based on Hemingway & Garrick-Bethell (2012) dipole distribution." 
+  sandbox="allow-scripts"  <!-- Allows the embedded HTML to run scripts -->
+></iframe>
 
 # Select Publications
 - [Variation in Lunar Regolith Space Weathering Relative to Latitude and Wavelength](https://doi.org/10.3847/PSJ/ae5bc0)
