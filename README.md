@@ -5,9 +5,7 @@
 - 👯 Looking to collaborate on: fun visualizations and geophysical models
 - 🤔 Ask me about: rock magnetism and electromagnetic induction
 
-Here's an interactive figure of a miniature magnetosphere at Reiner Gamma using my <code>GravMagSphere</code> equivalent source model based on the [Hemingway & Garrick-Bethell (2012)](https://doi.org/10.1029/2012JE004165) dipole distribution!
-
-![Reiner Gamma GravMagSphere equivalent source model based on Hemingway & Garrick-Bethell (2012) dipole distribution.](https://danywaller.github.io/images/reiner_gamma_table4_surface_direct_fieldlines_3d.html)
+[Click here](https://danywaller.github.io/images/reiner_gamma_table4_surface_direct_fieldlines_3d.html) for an interactive figure of a miniature magnetosphere at Reiner Gamma using my <code>GravMagSphere</code> equivalent source model based on the [Hemingway & Garrick-Bethell (2012)](https://doi.org/10.1029/2012JE004165) dipole distribution!
 
 # Select Publications
 - [Variation in Lunar Regolith Space Weathering Relative to Latitude and Wavelength](https://doi.org/10.3847/PSJ/ae5bc0)
